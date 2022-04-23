@@ -1,4 +1,4 @@
-# 2-Cars
+# 2 Cars
 Game in which you have to move both cars by touching the respective side of the screen avoiding the squares and collecting the circles which give you points.<br />
 [Tutorial](https://www.youtube.com/watch?v=rtGFFTtH7yU)
 
